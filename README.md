@@ -6,7 +6,6 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/)
-```markdown
 
 ---
 
@@ -43,14 +42,15 @@ The script will create `success.txt` automatically to store successful results. 
 
 ### Steps
 
-```bash
-# Install dependencies
-pip install selenium requests colorama
 
+# Install dependencies
+```bash
+pip install selenium requests colorama
+```
 # Download Chromedriver
 # Visit: https://chromedriver.chromium.org/
 # Place chromedriver.exe in the project folder
-```
+
 
 ## 🚀 Getting Started
 
