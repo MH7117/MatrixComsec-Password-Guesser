@@ -1,0 +1,21 @@
+# MatrixComsec Password Guesser - Terms of Use
+
+## 1. Acceptance of Terms  
+By using this software, you agree to comply with:  
+- All applicable laws and regulations.  
+- Ethical hacking guidelines (e.g., obtaining explicit authorization).  
+
+## 2. Prohibited Actions  
+- ❌ Testing systems without explicit permission.  
+- ❌ Reverse engineering or unauthorized redistribution.  
+- ❌ Commercial exploitation of the software.  
+
+## 3. Liability  
+The developer (**H7117**) is not responsible for:  
+- Misuse of the software.  
+- Damages caused by unauthorized activities.  
+
+## 4. Updates  
+Users must check the [GitHub repository](https://github.com/MH7117) regularly for critical updates.  
+
+**Last Updated**: January 1, 2025 
