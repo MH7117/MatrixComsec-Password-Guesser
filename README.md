@@ -37,7 +37,6 @@ The script will create `success.txt` automatically to store successful results. 
 - **Chrome Browser**: Ensure matching Chromedriver version.
 
 ### Steps
-```bash
 # Install dependencies
 pip install selenium requests colorama
 
