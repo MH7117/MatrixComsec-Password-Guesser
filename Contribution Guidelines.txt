@@ -1,0 +1,22 @@
+## How to Contribute  
+1. Fork the repository on [GitHub](https://github.com/MH7117/MatrixComsec-Password-Guesser).  
+2. Create a branch for your feature/bugfix:  
+   ```bash
+   git checkout -b feature/your-feature-name
+Submit a pull request with a detailed description.
+
+Code Standards
+Follow PEP8 for Python code.
+
+Document new features using docstrings.
+
+Include unit tests for critical functions.
+
+Reporting Issues
+Use the GitHub Issues section with:
+
+Steps to reproduce the problem.
+
+Screenshots (if applicable).
+
+OS and software version details.
