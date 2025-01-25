@@ -27,7 +27,8 @@ Before running the script, ensure you have the following files in the same direc
 
 1. `ips.txt`: List of target IP addresses (one per line)
 2. `proxies.txt`: List of proxy servers (optional, one per line in IP:PORT format)
-3. `chromedriver.exe`: ChromeDriver executable (matching your Chrome browser version)
+3. `passwords.txt`: List of passwords (one per line)
+4. `chromedriver.exe`: ChromeDriver executable (matching your Chrome browser version)
 
 The script will create `success.txt` automatically to store successful results. If it doesn't exist, you can create it manually.
 
@@ -57,7 +58,7 @@ pip install selenium requests colorama
 ### Prepare Input Files
 
 1. **`ips.txt`**: List of target IPs (one IP per line).
-2. **`list.txt`**: Passwords to test (one password per line).
+2. **`passwords.txt`**: Passwords to test (one password per line).
 3. **`proxies.txt`** (Optional): Proxies in `ip:port` format.
 
 ### Run the Tool
@@ -91,7 +92,7 @@ python MatrixComsec-Password-Guesser.exe
 198.51.100.2:3128
 ```
 
-### `list.txt` (Passwords)
+### `passwords.txt` (Passwords)
 
 ```plaintext
 admin
