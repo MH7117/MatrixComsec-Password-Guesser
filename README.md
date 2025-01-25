@@ -1,4 +1,3 @@
-```markdown
 # 🔒 MatrixComsec Password Guesser v3.0
 
 **Advanced Ethical Security Testing Tool**
@@ -7,6 +6,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/)
+```markdown
 
 ---
 
