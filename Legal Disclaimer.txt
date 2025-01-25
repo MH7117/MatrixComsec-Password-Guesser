@@ -1,0 +1,16 @@
+# MatrixComsec Password Guesser - Legal Disclaimer
+
+## WARNING  
+This software is intended **only for**:  
+- Authorized penetration testing.  
+- Educational purposes.  
+
+The developer (**MH7117**) disclaims all responsibility for:  
+- Illegal or unethical use.  
+- Data breaches or system damages.  
+
+By using this software, you acknowledge that:  
+- You have obtained proper authorization for all targets.  
+- You assume full legal liability for your actions.  
+
+**Official Contact**: [smsandshortcalltools.blogspot.com](https://smsandshortcalltools.blogspot.com)  
