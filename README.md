@@ -1,4 +1,7 @@
+```markdown
+
 # 🔒 MatrixComsec Password Guesser v3.0
+
 **Advanced Ethical Security Testing Tool**
 
 ![Script Screenshot](https://raw.githubusercontent.com/MH7117/MatrixComsec-Password-Guesser/refs/heads/main/MatrixComsec-Password-Guesser-Screen-Shot.png)
@@ -9,6 +12,7 @@
 ---
 
 ## 🌟 Key Features
+
 - **Dual Attack Modes**
   - 🕸️ **Browser Automation**: Uses Selenium for precise testing.
   - ⚡ **Direct Server Requests**: Leverages the Requests library for faster testing.
@@ -20,6 +24,7 @@
 ---
 
 ## 📁 Required Files
+
 Before running the script, ensure you have the following files in the same directory:
 
 1. `ips.txt`: List of target IP addresses (one per line)
@@ -33,10 +38,13 @@ The script will create `success.txt` automatically to store successful results. 
 ## 🛠️ Installation Guide
 
 ### Prerequisites
+
 - **Python**: Version 3.9+
 - **Chrome Browser**: Ensure matching Chromedriver version.
 
 ### Steps
+
+```bash
 # Install dependencies
 pip install selenium requests colorama
 
@@ -48,16 +56,19 @@ pip install selenium requests colorama
 ## 🚀 Getting Started
 
 ### Prepare Input Files
+
 1. **`ips.txt`**: List of target IPs (one IP per line).
 2. **`list.txt`**: Passwords to test (one password per line).
 3. **`proxies.txt`** (Optional): Proxies in `ip:port` format.
 
 ### Run the Tool
+
 ```bash
 python MatrixComsec-Password-Guesser.exe
 ```
 
 ### Follow Interactive Prompts
+
 1. **Choose Mode**: Browser or Direct Requests.
 2. **Select User**: Input or choose predefined user roles.
 3. **Proxy Settings**: Enable/disable proxy usage.
@@ -68,18 +79,21 @@ python MatrixComsec-Password-Guesser.exe
 ## 📂 Input File Examples
 
 ### `ips.txt`
+
 ```plaintext
 192.168.1.1
 10.0.0.2
 ```
 
 ### `proxies.txt`
+
 ```plaintext
 203.0.113.1:8080
 198.51.100.2:3128
 ```
 
 ### `list.txt` (Passwords)
+
 ```plaintext
 admin
 P@ssw0rd
@@ -87,6 +101,7 @@ P@ssw0rd
 ```
 
 ## 📊 Output
+
 Successful results will be saved in `success.txt`. The script will create this file if it doesn't exist.
 
 ---
@@ -102,11 +117,13 @@ Successful results will be saved in `success.txt`. The script will create this f
 ---
 
 ## 🤝 Contributing
+
 We welcome contributions to improve this tool! Please follow our [Contribution Guidelines](https://github.com/MH7117/MatrixComsec-Password-Guesser/blob/main/Contribution%20Guidelines.txt).
 
 ---
 
 ## 📧 Contact & Support
+
 - **GitHub**: [H7117](https://github.com/MH7117)
 - **Official Website**: SMS & ShortCall Tools
 - **Report Issues**: Use the [GitHub Issues](https://github.com/MH7117/MatrixComsec-Password-Guesser/issues) section.
@@ -114,6 +131,7 @@ We welcome contributions to improve this tool! Please follow our [Contribution G
 ---
 
 ## ⚠️ Legal Notice
+
 This tool is strictly for authorized security testing. By using this software, you agree to the following:
 - [Terms of Use](https://github.com/MH7117/MatrixComsec-Password-Guesser/blob/main/Terms%20of%20Use.txt)
 - [Legal Disclaimer](https://github.com/MH7117/MatrixComsec-Password-Guesser/blob/main/Legal%20Disclaimer.txt)
